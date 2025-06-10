@@ -1,0 +1,15 @@
+<style>
+body { font-family: verdana; }
+.container { width: 500px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px; }
+label { display: block; margin-bottom: 5px; }
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select { width: 100%; padding: 8px; margin-bottom: 10px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px; }
+.radio-group { display: flex;  gap: 10px; margin-bottom: 10px; }
+.radio-group label { display: flex; align-items: center; }
+.checkbox-group { display: block; margin-bottom: 10px; }
+.checkbox-group label { display: flex; align-items: center; margin-bottom: 5px; }
+button { background-color:#2596be ; color: white; padding: 10px 20px; border: none; border-radius: 4px;  }
+button:hover { background-color: #3e8e41; }
+</style>
